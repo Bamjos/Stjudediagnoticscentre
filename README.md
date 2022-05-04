@@ -1,0 +1,2 @@
+# Stjudediagnoticscentre
+GitHub Pages
